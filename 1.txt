@@ -1,2 +1,3 @@
 Hey welcome from one.
 Hey conflict from main.
+Hey welcome from conflict.
